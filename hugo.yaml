@@ -28,8 +28,6 @@ menu:
       weight: 3
     - name: subscribe
       url: "index.xml"
-    - name: new
-      url: "new/"
     # - name: about
     #   url: "about/"
     #   weight: 2
@@ -43,7 +41,7 @@ menu:
 
 params:
   description: "A website built with Hugo."
-  footer: "&copy; [vksh](https://gn.vksh.fyi) 2017 -- {Year}"
+  footer: "&copy; [vksh](https://gn.vksh.fyi) 2017 -- {Year} | [+post](/new/)"
 
 markup:
   highlight:
