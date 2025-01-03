@@ -1,0 +1,9 @@
+name = "gn"
+license = "MIT"
+licenselink = ""
+description = ""
+homepage = ""
+demosite = ""
+tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist"]
+features = ["blog"]
+min_version = "0.18"
