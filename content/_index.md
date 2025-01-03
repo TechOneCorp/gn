@@ -2,6 +2,6 @@
 title: Home
 ---
 
-Read [posts](/post/), or [notes](/note/)
+Read [posts](/post/) and [notes](/note/).
 
-Recent posts:
+Most recent:
