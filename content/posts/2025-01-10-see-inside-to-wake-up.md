@@ -4,7 +4,7 @@ author: vksh
 date: '2025-01-10'
 categories:
   - gn
-slug: post 
+slug: see-inside-to-wake-up 
 ---
 
 > जो बाहर देखता है वह सो जाता है और जो अंदर देखता है वह जाग जाता है
